@@ -2,8 +2,6 @@
 
 풀스택 개발 경험과 QA 백그라운드를 바탕으로 한 품질 중심의 소프트웨어 엔지니어입니다.
 
-## **Contact:** gusanr4200@naver.com | 010-5146-1591
-
 ## Projects
 
 ### [next-props-shared](https://github.com/kimhyunmook/next-props-shared) | NPM Package
@@ -14,7 +12,8 @@
 - NPM 배포를 통한 모듈화, 버전 관리 경험
 - VSCode 연동 및 코드 복사 기능으로 개발자 편의성 향상
 
-**Tech:**
+#### Tech
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-squar&logo=npm&logoColor=white)
@@ -28,7 +27,8 @@
 - OpenAPI 문서화로 프론트엔드 협업 효율성 개선
 - GitHub Actions 자동 배포 CI/CD 파이프라인 구축
 
-**Tech:**
+#### Tech:
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
@@ -43,7 +43,8 @@
 - 로컬 스토리지 기반 프라이버시 보호 데이터 관리 시스템 구현
 - TypeScript + Webpack 빌드 환경 구성
 
-**Tech:**
+#### Tech
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-squar&logo=webpack&logoColor=black)
@@ -57,7 +58,8 @@
 - SSR 환경 쿠키 인증 이슈 해결 및 팀 내 기술 문서화
 - Storybook 기반 컴포넌트 문서화로 팀 협업 효율성 향상
 
-**Tech:**
+#### Tech
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -119,3 +121,5 @@
 
 ![김현묵's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhyunmook&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyunmook&layout=compact&theme=default)
+
+## **Contact:** gusanr4200@naver.com | 010-5146-1591
