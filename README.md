@@ -3,6 +3,18 @@
 <!--
 **kimhyunmook/kimhyunmook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Languages & Frameworks
+[이미지 표시](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+[이미지 표시](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+[이미지 표시](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+Backend & Runtime
+이미지 표시
+이미지 표시
+이미지 표시
+Tools & Package Management
+이미지 표시
+이미지 표시
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
