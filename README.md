@@ -126,7 +126,7 @@
 
 ## GitHub Stats
 
-// ![김현묵's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhyunmook&show_icons=true&theme=default)
+<!-- ![김현묵's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhyunmook&show_icons=true&theme=default) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyunmook&layout=compact&theme=default)
 
 ## **Contact:** 
