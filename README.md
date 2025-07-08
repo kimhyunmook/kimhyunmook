@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=_000000&text=Hello&height=200&fontSize=40)
 
 # 김현묵 | Software Engineer
 
