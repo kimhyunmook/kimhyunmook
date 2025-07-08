@@ -7,8 +7,6 @@
 왜 이렇게 동작해야 하는지를 깊이 고민하고, 재사용성과 유지보수성을 고려한 구조적인 설계를 추구합니다. 
 그리고 항상 더 나은 방법이 있을 것이라는 믿음을 가지고 새로운 접근법을 탐색합니다.
 
-<br />
-
 # Project
 
 ## [next-props-shared](https://github.com/kimhyunmook/nps) | NPM Package
