@@ -1,4 +1,3 @@
-
 # 김현묵 | Software Engineer
 
 저는 품질 중심의 시각과 문제 해결 능력을 길러온 소프트웨어 엔지니어입니다.
@@ -21,9 +20,15 @@
 
 #### Tech
 
+<a href="#"> 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+</a>
+<a href="#"> 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+</a>
+<a href="#"> 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-squar&logo=npm&logoColor=white)
+</a>
 
 ### [codi-it](https://github.com/kimhyunmook/codi-it-be) | 교육용 B2C 쇼핑몰 백엔드
 
