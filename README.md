@@ -129,4 +129,6 @@
 ![김현묵's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhyunmook&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyunmook&layout=compact&theme=default)
 
-## **Contact:** gusanr4200@naver.com | 010-5146-1591
+## **Contact:** 
+email: gusanr4200@naver.com
+phone: 010-5146-1591
