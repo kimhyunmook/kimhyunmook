@@ -13,7 +13,7 @@
 
 ## [next-props-shared](https://github.com/kimhyunmook/nps) | NPM Package
 
-팀 내 컴포넌트 공유 효율성을 높이기 위한 경량화된 도구
+팀 내 컴포넌트 공유 효율성을 높이기 위한 경량화된 모듈
 
 - Storybook 대비 빠른 개발 생산성 향상
 - NPM 배포를 통한 모듈화, 버전 관리 경험
@@ -69,8 +69,8 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-2D3748?style=for-the-badge&logo=react&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-2D3748?style=flat-square&logo=react&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
