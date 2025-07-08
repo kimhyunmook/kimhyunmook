@@ -4,6 +4,8 @@
 
 ## Projects
 
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&text=Projects&height=200)
+
 ### [next-props-shared](https://github.com/kimhyunmook/nps) | NPM Package
 
 팀 내 컴포넌트 공유 효율성을 높이기 위한 경량화된 도구
