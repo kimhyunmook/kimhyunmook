@@ -9,9 +9,9 @@
 
 <br />
 
-## Project
+# Project
 
-### [next-props-shared](https://github.com/kimhyunmook/nps) | NPM Package
+## [next-props-shared](https://github.com/kimhyunmook/nps) | NPM Package
 
 팀 내 컴포넌트 공유 효율성을 높이기 위한 경량화된 도구
 
@@ -25,7 +25,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-squar&logo=npm&logoColor=white)
 
-### [codi-it](https://github.com/kimhyunmook/codi-it-be) | 교육용 B2C 쇼핑몰 백엔드
+## [codi-it](https://github.com/kimhyunmook/codi-it-be) | 교육용 B2C 쇼핑몰 백엔드
 
 **교육용** B2C 쇼핑몰 백엔드 API 개발 및 인프라 구성
 
@@ -42,7 +42,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### [OAuth Connections Viewer](https://github.com/kimhyunmook/OAuth-Connections-Viewer) | Chrome Extension
+## [OAuth Connections Viewer](https://github.com/kimhyunmook/OAuth-Connections-Viewer) | Chrome Extension
 
 다중 플랫폼 OAuth 연결 상태 통합 관리 크롬 확장 프로그램, (배포 예정)
 
@@ -57,7 +57,7 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-squar&logo=webpack&logoColor=black)
 ![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-squar&logo=googlechrome&logoColor=white)
 
-### [무빙](https://github.com/sprint-fs-3-part4-team2) | 이사 견적 매칭 플랫폼
+## [무빙](https://github.com/sprint-fs-3-part4-team2) | 이사 견적 매칭 플랫폼
 
 이사 견적 요청/제공 매칭 서비스 풀스택 개발
 
@@ -69,11 +69,13 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-2D3748?style=for-the-badge&logo=react&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
-## Tech Stack
+# Tech Stack
 
 #### Frontend
 
@@ -105,7 +107,7 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
-## Experience
+# Experience
 
 **보보스링크 AI Korea** | QA | 계약직 (2022.01 ~ 2024.01)
 
