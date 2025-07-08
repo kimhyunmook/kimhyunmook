@@ -1,10 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=_000000&text=Hello&height=200&fontSize=40)
+
 # 김현묵 | Software Engineer
 
 풀스택 개발 경험과 QA 백그라운드를 바탕으로 한 품질 중심의 소프트웨어 엔지니어입니다.
 
-## Projects
-
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&text=Projects&height=200)
+## Project
 
 ### [next-props-shared](https://github.com/kimhyunmook/nps) | NPM Package
 
