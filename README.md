@@ -1,10 +1,11 @@
 # 김현묵 | Software Engineer
+
 안녕하세요😊
-저는 품질 중심의 시각과 문제 해결 능력을 갖춘 소프트웨어 엔지니어입니다. 풀스택 개발과 QA 업무를 모두 경험하며, 
+저는 품질 중심의 시각과 문제 해결 능력을 갖춘 소프트웨어 엔지니어입니다. 풀스택 개발과 QA 업무를 모두 경험하며,
 사용자 관점에서 문제를 바라보고 더 나은 사용자 경험을 제공하기 위해 고민하고 설계하는 일에 집중하고 있습니다.
 
-새로운 기술과 도전을 즐기며, 이슈를 탐색하고 근본 원인을 파악하는 과정 자체에서 보람을 느낍니다. 단순히 동작하는 코드를 작성하는 것보다는, 
-왜 이렇게 동작해야 하는지를 깊이 고민하고, 재사용성과 유지보수성을 고려한 구조적인 설계를 추구합니다. 
+새로운 기술과 도전을 즐기며, 이슈를 탐색하고 근본 원인을 파악하는 과정 자체에서 보람을 느낍니다. 단순히 동작하는 코드를 작성하는 것보다는,
+왜 이렇게 동작해야 하는지를 깊이 고민하고, 재사용성과 유지보수성을 고려한 구조적인 설계를 추구합니다.
 그리고 항상 더 나은 방법이 있을 것이라는 믿음을 가지고 새로운 접근법을 탐색합니다.
 
 # Project
@@ -121,14 +122,24 @@
 
 ## Education
 
-**중부대학교** | 애완동물자원학과 학사 (2014.03 ~ 2020.08)  
+**중부대학교** | 애완동물자원학과 학사 (2014.03 ~ 2020.08)
+
 **Codeit** | 풀스택 교육과정 (2024.09 ~ 2025.04)
+
+- **Frontend**: HTML, CSS, tailwind, JavaScript, React, React-Query, Justand, Next.js
+- **Backend**: TypeScript, Node.js, Express를 활용한 서버 개발 및 RESTful API 구축
+- **클라우드 인프라**: AWS EC2, RDS, S3를 활용한 애플리케이션 배포
+- 풀스택 개발 능력 (Frontend + Backend + 배포)
+- 팀 협업 및 프로젝트 관리 경험
+- 현업 개발 환경에 적응할 수 있는 실무 경험
 
 ## GitHub Stats
 
 <!-- ![김현묵's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhyunmook&show_icons=true&theme=default) -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhyunmook&layout=compact&theme=default)
 
-## **Contact:** 
+## **Contact:**
+
 email: gusanr4200@naver.com
 phone: 010-5146-1591
