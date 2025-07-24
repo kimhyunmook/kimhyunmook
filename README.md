@@ -108,7 +108,7 @@
 
 # Experience
 
-**Telus International AI Korea (보보스링크)** | AI QA 엔지니어 – 2022.01 ~ 2024.01 (2년)
+**Telus International AI Korea (보보스링크)** | 게약직 2022.01 ~ 2024.01 (2년)
 
 - Bixby AI (Mobile/Watch/PC) 전 플랫폼 기능 테스트 및 품질 관리
 - Jira 기반 QA 이슈 관리 및 회귀 테스트 체계화
@@ -124,8 +124,6 @@
 
 ## Education
 
-**중부대학교** | 애완동물자원학과 학사 (2014.03 ~ 2020.08)
-
 **Codeit** | 풀스택 교육과정 (2024.09 ~ 2025.04)
 
 - **Frontend**: HTML, CSS, tailwind, JavaScript, React, React-Query, Justand, Next.js
@@ -134,6 +132,9 @@
 - 풀스택 개발 능력 (Frontend + Backend + 배포)
 - 팀 협업 및 프로젝트 관리 경험
 - 현업 개발 환경에 적응할 수 있는 실무 경험
+
+**중부대학교** | 애완동물자원학과 학사 (2014.03 ~ 2020.08)
+
 
 ## GitHub Stats
 
